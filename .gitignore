@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.joblib
+*.duckdb
+.venv/
+venv/
+.env
+.DS_Store
